@@ -5,7 +5,7 @@
 Bem-vindo ao meu perfil do GitHub! Aqui, compartilho um pouco da minha jornada de aprendizado
 
 
-//![vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius098&show_icons=true&theme=transparent)
+![vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius098&show_icons=true&theme=transparent)
 
 
 <div style="display: inline_block"><br>
