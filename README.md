@@ -1,5 +1,7 @@
 #Olá! Sou o Vinicius, estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação! 👋
 
+
+
 Bem-vindo ao meu perfil do GitHub! Aqui, compartilho minha jornada de aprendizado, 
 
 
