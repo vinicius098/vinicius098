@@ -4,12 +4,9 @@
 
 Bem-vindo ao meu perfil do GitHub! Aqui, compartilho minha jornada de aprendizado
 
-<div>
-  
-  <img  src="https://github-readme-stats.vercel.app/api?username=vinicius098&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius098&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-<br>
+
+![vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius098&show_icons=true&theme=transparent)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
