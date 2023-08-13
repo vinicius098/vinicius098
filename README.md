@@ -2,7 +2,7 @@
 
 
 
-Bem-vindo ao meu perfil do GitHub! Aqui, compartilho minha jornada de aprendizado, 
+Bem-vindo ao meu perfil do GitHub! Aqui, compartilho minha jornada de aprendizado
 
 
 <div style="display: inline_block"><br>
